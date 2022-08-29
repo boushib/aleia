@@ -1,4 +1,5 @@
 import PageHeader from '../components/PageHeader'
+import Properties from '../components/Properties'
 
 const Home = () => (
   <div className="home">
@@ -8,6 +9,7 @@ const Home = () => (
         cta="View all properties"
         onClick={() => {}}
       />
+      <Properties />
     </div>
   </div>
 )

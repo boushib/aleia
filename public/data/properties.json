@@ -1,0 +1,38 @@
+[
+  {
+    "id": "da90b205-23d3-47c1-a1a0-492307ecf1ef",
+    "price": 4354300,
+    "address": "7187 Morapa Dr.",
+    "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+  },
+  {
+    "id": "e5367816-d4bb-44f2-80a2-ce370d41602f",
+    "price": 8354600,
+    "address": "1301 Dolphin Terrace",
+    "image": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2350&q=80"
+  },
+  {
+    "id": "d7790b9b-8a23-4d9a-8cd6-c2c0e909b075",
+    "price": 6542400,
+    "address": "215 Milford Dr.",
+    "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+  },
+  {
+    "id": "baa54ad6-474f-4721-a7d1-5be746726790",
+    "price": 9876500,
+    "address": "9315 Nightingale Dr.",
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+  },
+  {
+    "id": "6a3258c2-1dd2-4132-bc38-3a19064ed925",
+    "price": 3245600,
+    "address": "14953 Sutton St°",
+    "image": "https://images.unsplash.com/photo-1502005097973-6a7082348e28?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+  },
+  {
+    "id": "7a04cd1d-57de-4cdc-9b6b-552d33212dcf",
+    "price": 9886500,
+    "address": "215 Milford Dr.",
+    "image": "https://images.unsplash.com/photo-1575517111478-7f6afd0973db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80"
+  }
+]
