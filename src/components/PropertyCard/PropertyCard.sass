@@ -1,6 +1,7 @@
 .property-card
   flex-basis: 400px
-  height: 300px
+  height: 280px
+  max-width: 400px
   flex-grow: 1
   position: relative
   cursor: pointer
@@ -27,6 +28,7 @@
     display: flex
     align-items: center
     justify-content: space-between
+    flex-wrap: wrap
 
   &__price,
   &__address
@@ -46,3 +48,10 @@
     .property-card__image
       filter: grayscale(0)
       transform: rotate(-3deg) scale(1.2)
+
+  @media (max-width: 1300px)
+    flex-basis: 312px
+
+  @media (max-width: 768px)
+    flex-basis: 100%
+    max-width: 100%
