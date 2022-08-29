@@ -20,3 +20,18 @@
     font-size: 20px
     font-weight: 600
     color: var(--color-text-secondary)
+
+  &__toggle
+    display: none
+    cursor: pointer
+
+    svg
+      width: 32px
+      height: 32px
+
+  @media (max-width: 768px)
+    &__toggle
+      display: block
+
+    &__menu, &__tail
+      display: none

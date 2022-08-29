@@ -1,4 +1,5 @@
 import AppLogo from '../AppLogo'
+import Hamburger from '../Hamburger'
 import './Navbar.sass'
 
 const Navbar = () => (
@@ -14,6 +15,9 @@ const Navbar = () => (
         <div className="nav__menu__item">Contact</div>
       </div>
       <div className="nav__tail">En</div>
+      <div className="nav__toggle">
+        <Hamburger />
+      </div>
     </div>
   </nav>
 )
